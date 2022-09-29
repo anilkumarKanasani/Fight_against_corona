@@ -4,13 +4,13 @@ We used SMART strategy to develop this application.
 
 
 
-S - **S**tatement ( Business statement )
+S - [**S**tatement ( Business statement )](statement.md)
 
-M - **M**etrics&#x20;
+M - [**M**etrics ](metrics.md)
 
-A -  **A**nalysis
+A -  [**A**nalysis](analysis.md)
 
-R -  **R**eports
+R -  [**R**eports](reports.md)
 
-T - **T**ransformation to Business domain
+T - [**T**ransformation to Business domain](transformation-to-business-domain.md)
 
